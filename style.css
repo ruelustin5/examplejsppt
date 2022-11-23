@@ -1,0 +1,29 @@
+body{
+    font-family: 'Arial Narrow Bold', sans-serif;
+    color: white;
+    background-color: turquoise;
+}
+
+button{
+    background-color: turquoise;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+#container{
+    background-color: rgb(190, 81, 207);
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    flex-direction: column;
+    margin-top: 50px;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    font-size: 20px;
+}
